@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "lemon pie",
+      "precio": "120",
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Pastel de frutilla",
+      "precio": "300",
+      "id": 6
+    },
+    {
+      "nombre": "guiso de lenteja",
+      "precio": "130",
+      "id": 9
+    },
+    {
+      "nombre": "chanfaina",
+      "precio": "250",
+      "id": 10
+    }
+  ]
+}
